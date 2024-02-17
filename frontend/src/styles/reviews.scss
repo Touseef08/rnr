@@ -1,0 +1,53 @@
+#reviews{
+    
+    
+    >p{
+        text-align: center;
+        color: blanchedalmond;
+        padding-top: 10px;
+    }
+    >h1{
+        text-align: center;
+        color: #ffa500;
+        padding-top: 12px;
+        font-size: 2.5rem;
+    }
+    }
+    #reviews1{
+        height: 90vh;
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        gap: 3rem;
+        #rw{
+            height: 400px;
+            width: 350px;
+            background-color: blanchedalmond;
+            border-radius: 25px;
+            >h3{
+                color: #ffa500;
+                text-align: center;
+                padding-top: 10%;
+            }
+            >p{
+                text-align: center;
+                padding-top: 16%;
+                padding-left: 4%;
+                padding-right: 4%;
+            }
+        #imp{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding-top: 15%;
+            >img{
+           background-size: cover;
+           height: 15vh;
+            width: 15vh;
+            border-radius: 50%;
+            }
+        }
+        }
+    }

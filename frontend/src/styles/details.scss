@@ -1,0 +1,39 @@
+#details{
+    height: 110vh;
+    width: 100%;
+    background-color: #020313;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+    >form{
+        >p{
+            color: #ffa500;
+        }
+        >h3{
+            color: #ffa500;
+            margin-top: 2.5rem;
+        }
+    >h1{
+        color: #ffa500;
+        margin-top: 40px;
+        font-size: 2.5rem;
+    }
+    >input{
+        display:flex;
+        flex-direction: column;
+        margin-left: 39%;
+        text-align: center;
+        height: 5vh;
+        width: 45vh;
+        margin-top: 1rem;
+        outline: none;
+    }
+    >button{
+        margin-top: 2rem;
+        height: 5vh;
+        width: 25vh;
+        background-color: #ffa500;
+    }
+}
+}
